@@ -1,4 +1,6 @@
-import { db } from "@/db";
+export const dynamic = "force-dynamic"
+
+import { db } from '@/db';
 import { coursesTable } from "@/db/schema";
 
 export default async function Courses() {
