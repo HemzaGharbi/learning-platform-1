@@ -1,1 +1,0 @@
-ALTER TABLE "courses" ADD COLUMN "description" varchar(255) NOT NULL;

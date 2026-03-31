@@ -15,6 +15,34 @@
       "when": 1774697220135,
       "tag": "0001_spooky_bushwacker",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1774857462804,
+      "tag": "0002_worthless_madrox",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1774943603705,
+      "tag": "0003_motionless_ted_forrester",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1774944032355,
+      "tag": "0004_wise_jack_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1774944122317,
+      "tag": "0005_same_deathstrike",
+      "breakpoints": true
     }
   ]
 }
