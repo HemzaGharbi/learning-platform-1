@@ -11,13 +11,12 @@ export const groupsTable = pgTable("groups", {
   name: varchar({ length: 255 }).notNull(),
 });
 
-export const previewsTable = pgTable("reviews", {
+export const reviewsTable = pgTable("reviews", {
   id: integer().primaryKey().generatedAlwaysAsIdentity(),
   title: varchar({ length: 255 }).notNull(),
   content: varchar({ length: 255 }).notNull(),
   createdAt: timestamp("created_at").defaultNow().notNull(),
 });
-
 // we can generate files with migration
 // npx drizzle-kit generate
 // this commande will create SQL files, wich we can use letter (apply) and generate files migration
