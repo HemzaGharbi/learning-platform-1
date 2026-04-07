@@ -6,7 +6,7 @@ export default function About() {
   );
 }
 
-// /about -> ABout
+// /about -> About
 // /about/me -> Developer X
 // /about/us -> Developer X and Developer Y
 // Remix

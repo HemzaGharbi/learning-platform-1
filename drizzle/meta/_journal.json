@@ -8,6 +8,27 @@
       "when": 1774970487456,
       "tag": "0000_far_rockslide",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1775058409424,
+      "tag": "0001_majestic_rachel_grey",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1775062820155,
+      "tag": "0002_calm_tomorrow_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1775549276796,
+      "tag": "0003_safe_texas_twister",
+      "breakpoints": true
     }
   ]
 }
